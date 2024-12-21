@@ -12,6 +12,7 @@ DATABASES = {
 
 # Add installed apps
 INSTALLED_APPS += [
+    'family_tree',
     'rest_framework',
     'tree',
 ]
